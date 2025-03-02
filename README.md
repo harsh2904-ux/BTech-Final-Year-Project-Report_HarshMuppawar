@@ -1,4 +1,4 @@
-# BTech-Final-Year-Project-Report_HarshMuppawar
+# BTech-Final-Year-Project-Report_HarshMuppawar 
 This repository contains the final year project report for my B.Tech degree. It includes the complete documentation, research findings, implementation details, and conclusions. The report is structured as per academic guidelines and covers all essential aspects of the project.
 
 # AI-Driven Parental Control: Enhancing Child Safety Through Intelligent Mobile Applications
