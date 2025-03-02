@@ -3,7 +3,7 @@ This repository contains the final year project report for my B.Tech degree. It 
 
 # AI-Driven Parental Control: Enhancing Child Safety Through Intelligent Mobile Applications  
 
-📌 *An AI-powered parental control system to ensure child safety by monitoring and filtering mobile content.*  
+
 
 ---
 
@@ -13,36 +13,36 @@ The project aims to develop an **AI-powered parental control system** that helps
 ---
 
 ## 🎯 Objectives  
-✔️ Develop an **AI-based content filtering system** to detect inappropriate material.  
-✔️ Create a **Flutter-based mobile application** for parental control.  
-✔️ Implement **real-time monitoring** and activity tracking features.  
-✔️ Provide **customizable parental controls** for safe browsing and app usage.  
-✔️ Ensure **secure data handling** to protect child privacy.  
+- Develop an **AI-based content filtering system** to detect inappropriate material.  
+- Create a **Flutter-based mobile application** for parental control.  
+- Implement **real-time monitoring** and activity tracking features.  
+- Provide **customizable parental controls** for safe browsing and app usage.  
+- Ensure **secure data handling** to protect child privacy.  
 
 ---
 
 ## 🛠️ Methodology  
-1️⃣ **Data Collection & Preprocessing** – Gather and clean child-friendly and inappropriate content datasets.  
-2️⃣ **AI Model Development** – Train AI models using **Natural Language Processing (NLP)** and **Computer Vision** for text and image analysis.  
-3️⃣ **Backend Development** – Use **Flask/FastAPI** for API services and **Firebase/MySQL** for data storage.  
-4️⃣ **Mobile App Development** – Build a **Flutter-based** application with a user-friendly parental control interface.  
-5️⃣ **Integration & Testing** – Deploy AI models, test app features, and optimize performance.  
+- **Data Collection & Preprocessing** – Gather and clean child-friendly and inappropriate content datasets.  
+- **AI Model Development** – Train AI models using **Natural Language Processing (NLP)** and **Computer Vision** for text and image analysis.  
+- **Backend Development** – Use **Flask/FastAPI** for API services and **Firebase/MySQL** for data storage.  
+- **Mobile App Development** – Build a **Flutter-based** application with a user-friendly parental control interface.  
+- **Integration & Testing** – Deploy AI models, test app features, and optimize performance.  
 
 ---
 
 ## 🚀 Features  
-✅ **AI-Powered Content Filtering** – Blocks inappropriate websites, messages, and images.  
-✅ **App Usage Monitoring** – Tracks screen time and app activities.  
-✅ **Live Alerts & Notifications** – Sends alerts when harmful content is detected.  
-✅ **Customizable Controls** – Parents can set screen time limits and block apps.  
-✅ **Secure & Private** – Ensures child data protection.  
+- **AI-Powered Content Filtering** – Blocks inappropriate websites, messages, and images.  
+- **App Usage Monitoring** – Tracks screen time and app activities.  
+- **Live Alerts & Notifications** – Sends alerts when harmful content is detected.  
+- **Customizable Controls** – Parents can set screen time limits and block apps.  
+- **Secure & Private** – Ensures child data protection.  
 
 ---
 
 ## 📊 Results & Outcomes  
 - The system effectively detects and blocks **99% of inappropriate content** using AI models.  
-📌 Real-time monitoring and alerts provide **instant parental awareness**.  
-📌 The mobile app enables parents to **remotely manage** child’s device usage.  
+- Real-time monitoring and alerts provide **instant parental awareness**.  
+- The mobile app enables parents to **remotely manage** child’s device usage.  
 
 ---
 
