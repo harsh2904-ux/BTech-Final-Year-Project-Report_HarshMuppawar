@@ -47,9 +47,8 @@ The project aims to develop an **AI-powered parental control system** that helps
 ---
 
 ## 👥 Contributors  
-- **[Your Name]** – AI Model Development & Backend  
-- **[Contributor 2]** – Mobile App Development  
-- **[Contributor 3]** – UI/UX Design & Testing  
+- **[Harsh Muppawar]** – Student , Department of Artificial Intelligence And Data Science 
+- **[Dr. Utkarsha Pacharaney]** – Supervisor 
 
 *(Add actual contributor names and GitHub profiles if applicable.)*  
 
