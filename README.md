@@ -40,7 +40,7 @@ The project aims to develop an **AI-powered parental control system** that helps
 ---
 
 ## 📊 Results & Outcomes  
-📌 The system effectively detects and blocks **99% of inappropriate content** using AI models.  
+- The system effectively detects and blocks **99% of inappropriate content** using AI models.  
 📌 Real-time monitoring and alerts provide **instant parental awareness**.  
 📌 The mobile app enables parents to **remotely manage** child’s device usage.  
 
